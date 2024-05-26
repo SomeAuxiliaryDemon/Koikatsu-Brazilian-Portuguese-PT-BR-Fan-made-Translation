@@ -7,73 +7,73 @@
 //
 
 // Generic Accepts/etc.
-戻る=Back
-決定=Accept
-キャンセル=Cancel
+戻る=Voltar
+決定=Aceitar
+キャンセル=Cancelar
 
-はい=Yes
-いいえ=No
+はい=Sim
+いいえ=Não
 
 // Various Game Messages
-ゲームを終了しますか？=Quit the game?
+ゲームを終了しますか？=Sair do jogo?
 
 // Name/Date, used generally in character selections
 // Avoid adding Club/Personality to here, they get abbreviated/used in various other ways
-名前=Name
-日付=Date
+名前=Nome
+日付=Data
 
 // Female Personalities and Clubs
 セクシー=Sexy
 お嬢様=Ojousama
-高飛車=Snobby
+高飛車=Esnobe
 後輩キャラ=Kouhai
-ミステリアス=Mysterious
-電波=Weirdo
+ミステリアス=Misteriosa
+電波=Estranha
 大和撫子=Yamato Nadeshiko
 ボーイッシュ=Tomboy
-純真無垢=Pure
-単純=Simple
-邪気眼=Delusional
-母性的=Motherly
-姉御肌=Big Sisterly
+純真無垢=Alma pura
+単純=Simples
+邪気眼=Delirante
+母性的=Maternal
+姉御肌=Grande irmã
 ギャル=Gyaru
-不良少女=Delinquent
-野生的=Wild
-意識高いクール=Wannabe
-ひねくれ=Reluctant
-不幸少女=Jinxed
-文学少女=Bookish
-モジモジ=Timid
-正統派ヒロイン=Typical Schoolgirl
-ミーハー=Trendy
+不良少女=Delinquente
+野生的=Selvagem
+意識高いクール=Aspirante
+ひねくれ=Relutante
+不幸少女=Azarada
+文学少女=Estudiosa
+モジモジ=Tímida
+正統派ヒロイン=Estudante típica
+ミーハー=Fã de tendências
 オタク女子=Otaku
 ヤンデレ=Yandere
-ものぐさ=Lazy
-無口=Quiet
-意地っ張り=Stubborn
-のじゃっ子=Old-Fashioned
-素直クール=Humble
+ものぐさ=Preguiçosa
+無口=Quieta
+意地っ張り=Teimosa
+のじゃっ子=Antiquada
+素直クール=Humilde
 // Patch 0727 (add13/14)
-気さく=Friendly
+気さく=Amigável
 // Additional Personalities DLC (add15/16/17/18)
-勝ち気=Willful
-誠実=Honest
-艶やか=Glamorous
+勝ち気=Persistente
+誠実=Honesta
+艶やか=Glamorosa
 // Afterschool DLC Personalities (add20/25)
-帰国子女=Returnee
-方言娘=Slangy
-Ｓッ気=Sadistic
-無感情=Emotionless
+帰国子女=Repatriada
+方言娘=Coloquial
+Ｓッ気=Sádica
+無感情=Sem emoções
 // Emotion Creators Preorder DLC
-几帳面=Perfectionist
+几帳面=Perfeccionista
 
 // Club Types
-帰宅部=Going Home Club
-水泳部=Swimming Club
-漫研部=Manga Club
-チアリーディング部=Cheerleading Club
+帰宅部=Clube caseiro
+水泳部=Clube de natação
+漫研部=Clube de mangá
+チアリーディング部=Clube de líder de torcida
 茶道部=Tea Ceremony Club
-陸上部=Track & Field Club
+陸上部=Clube de atletismo
 
 // Character Select Menu
-キャラクター選択=Select a Character
+キャラクター選択=Selecionar uma personagem
