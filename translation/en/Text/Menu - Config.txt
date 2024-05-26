@@ -5,56 +5,56 @@
 //Top Header Bar
 //
 
-描画設定=Graphics
-ADV=Story
-サウンド=Sound
-音声=Voices
-エッチ=H-Scene
-その他=Miscellaneous
+描画設定=Gráficos
+ADV=História
+サウンド=Som
+音声=Vozes
+エッチ=Cena-H
+その他=Diversos
 機能拡張=Extras
 
 //
 // Graphics
 //
 
-カメラエフェクト=Camera Effects
-アンビエントオクルージョンを有効にする=Enable Ambient Occlusion
-ビネットを有効にする（画面の周囲を暗くする効果）=Enable Vignetting (Darkens Screen Edges)
-ブルームを有効にする=Enable Bloom
-セルフシャドウを有効にする=Enable Self-Shadowing
-被写界深度を有効にする=Enable Depth of Field
-フォグを有効にする=Enable Fog
-サンシャフトを有効にする（光の木漏れ日表現）=Enable Sunshafts (Light Filtering)
-軽い=Lite
+カメラエフェクト=Efeitos da câmera
+アンビエントオクルージョンを有効にする=Ligar Oclusão de Ambiente
+ビネットを有効にする（画面の周囲を暗くする効果）=Ligar Vinheta (Escurece as bordas)
+ブルームを有効にする=Ligar Iluminescência
+セルフシャドウを有効にする=Ligar Auto-sombreamento
+被写界深度を有効にする=Ligar Profundidade de Visão
+フォグを有効にする=Ligar Névoa
+サンシャフトを有効にする（光の木漏れ日表現）=Ativar Raios Solares (filtragem de luz)
+軽い=Baixo
 標準=Normal
-綺麗=Full
-影とアウトライン=Shadows & Outlines
-影の表現=Shadow Type
-影の濃さ=Shadow Density
-アウトラインの濃さ=Outline Density
-アウトラインの幅=Outline Thickness
+綺麗=Alto
+影とアウトライン=Sombras & Contorno
+影の表現=Tipo de Sombra
+影の濃さ=Densidade da Sombra
+アウトラインの濃さ=Densidade do Contorno
+アウトラインの幅=Grossura do Contorno
 
 // Graphics -> Shadow Types
-浅いなめらか影=Slight, Smooth Shadows
-浅いくっきり影=Slight, Sharp Shadows
-深いなめらか影=Deep, Smooth Shadows
-深いくっきり影=Deep, Sharp Shadows
-境界線のある影=Boundary Line Shadows
-完全なめらか影=Perfect, Smooth Shadows
-影なし=No Shadows
+浅いなめらか影=Leve, Sombras suaves
+浅いくっきり影=Moderado, Sombras Fortes
+深いなめらか影=Profundo, Sombras Suaves
+深いくっきり影=Profundo, Sombras Fortes
+境界線のある影=Sombras da linha limite
+完全なめらか影=Perfeito, Sombras Suaves
+影なし=Sem sombras
 
 //
 // Story
 //
 
-テキスト=Text
-スキップ=Skip
-既読=Read
-全て=All
-選択肢後スキップ継続=Skip after choices
-選択肢後オート継続=Auto after choices
-次のテキスト表示時に音声を停止=Voice stops before next text
-文字表示速度=Text Speed
+テキスト=Texto
+スキップ=Pular
+既読=Ler
+全て=Tudo
+選択肢後スキップ継続=Pular após escolhas
+選択肢後オート継続=Automatizar após escolhas
+次のテキスト表示時に音声を停止=Voz para após texto
+文字表示速度=Velocidade do texto
 遅=-
 速=+
 自動送り待ち時間=Auto Wait Delay
@@ -70,12 +70,12 @@ ADV=Story
 // Sound
 //
 
-全般=General
-マスター音量=Master Volume
-環境音=Environment
-ゲームSE=Game SFX
-BGM=Game BGM
-システムSE=System SFX
+全般=Geral
+マスター音量=Volume Principal
+環境音=Ambiente
+ゲームSE=Efeitos sonoros
+BGM=Música do jogo
+システムSE=Som dos menus
 
 //
 // Voices
@@ -125,66 +125,66 @@ BGM=Game BGM
 //Emotionless
 // Emotion Creators Preorder DLC
 //Perfectionist
-養護教諭=School Nurse
-数学教師=Math Teacher
-語学教師(担任)=Lang. Teacher (Homeroom)
+養護教諭=Enfermeira escolar
+数学教師=Professora de matemática
+語学教師(担任)=Professora de Ling. (Sala de aula)
 アイドル=Idol
 モブ=Mob
 
 // H-Scene
 ON/OFF=ON / OFF
-男の体表示=Show Male's Body
-男の服表示=Show Male's Clothing
-男の靴表示=Show Male's Shoes
-マップの遮蔽表示=Enable Map Masking
-男根表示=Show Penis
-男のメインアクセサリー表示=Show Male's Main Accessories
+男の体表示=Mostrar Corpo do(a) Jogador(a)
+男の服表示=Mostrar Roupas do(a) Jogador(a)
+男の靴表示=Mostrar Sapatos do(a) Jogador(a)
+マップの遮蔽表示=Ligar Máscara do Mapeamento
+男根表示=Mostrar Pênis
+男のメインアクセサリー表示=Mostrar os Acessórios Principais
 1人目の視線をカメラに向ける=Girl 1 Eye Tracking
 2人目の視線をカメラに向ける=Girl 2 Eye Tracking
 1人目の首をカメラに向ける=Girl 1 Head Tracking
 2人目の首をカメラに向ける=Girl 2 Head Tracking
-カメラ初期化判断=Move Camera on Position Change
-男の単色化=Monochrome Male
-男のサブアクセサリー表示=Show Male's Sub Accessories
-マップの表示=Show Map
-汁物の表現=Fluid Type
-無し=None
-3D詳細=Fancy 3D
-3D簡易=Simple 3D
-乳首立ち=Nipple Depth
-カラー=Color
-背景色=Background Color
-男の単色=Male Color
+カメラ初期化判断=Mover Câmera em Alteração de Posição
+男の単色化=Jogador(a) Monocromático(a)
+男のサブアクセサリー表示=Mostrar os Acessórios Auxiliares
+マップの表示=Mostrar Mapeamento
+汁物の表現=Tipo de fluído
+無し=Nenhum
+3D詳細=3D Estiloso
+3D簡易=3D Simplificado
+乳首立ち=Profundidade dos mamilos
+カラー=Cor
+背景色=Cor do Fundo
+男の単色=Cor do(a) Jogador(a)
 
 // Miscellaneous
 //Image Settings
-眉の最前面表示=Always Show Eyebrows
-目の最前面表示=Always Show Eyes
+眉の最前面表示=Sempre Mostrar Sobrancelhas
+目の最前面表示=Sempre Mostrar Olhos
 頬赤の表示=Show Cheek Flushing
-注視点の表示=Show Crosshair
-アクセサリー常時表示=Always Show Accessories
+注視点の表示=Mostrar Retículo
+アクセサリー常時表示=Sempre Mostrar Acessórios
 //None
-頭の一部=Head Only
+頭の一部=Cabeça Apenas
 //All
-※ CPUやメモリーに負荷のかかる設定となります。\n　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。\n　 その場合は、登校人数を減らすなどの調整をして下さい。\n※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=* This will increase the load on the CPU and memory.\n　 Depending on your machine's specs, instability may result, so please be careful.\n　 If this happens, please decrease the number of students in the school.\n* This setting is applied the next time a character changes their clothing.
-マップ移動設定=Map Movement Settings
-左クリック移動=Left-click to move
-登校人数=Students at School
-Ctrlキーをしゃがみに設定=Ctrl key to crouch
-カメラ設定=Camera Settings
-反転=Turn
+※ CPUやメモリーに負荷のかかる設定となります。\n　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。\n　 その場合は、登校人数を減らすなどの調整をして下さい。\n※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=* Isso aumentará a carga na CPU e na memória.\n　 Dependendo das especificações da sua máquina, poderá ocorrer instabilidade, portanto, tenha cuidado.\n　 Se isso acontecer, diminua o número de alunos na escola.\n* Esta configuração é aplicado na próxima vez que um personagem trocar de roupa.
+マップ移動設定=Configurações de movimento em mapas
+左クリック移動=Clique-esquerdo para mover
+登校人数=Estudantes na escola
+Ctrlキーをしゃがみに設定=Tecla CTRL para agachar
+カメラ設定=Configurações da Câmera
+反転=Giro
 横移動=Hor.
 縦移動=Vert.
 トイレで視点を一人称に設定=1st-Person View in Bathroom
-視点=Point of View
-三人称=3rd-Person
-一人称=1st-Person
-マウス感度=Mouse Sensitivity
-横回転=Hor. Rot.
-縦回転=Ver. Rot.
+視点=Ponto de vista
+三人称=3ºa Pessoa
+一人称=1ºa Pessoa
+マウス感度=Sensibilidade do Mouse
+横回転=Rot. Hor.
+縦回転=Rot. Ver
 移動=Mv.
 補間値=Interp.
-注視点位置=Crosshair Location
+注視点位置=Localização do Retículo
 
 // Extras
 初回H緩和=Virgins don't need foreplay
@@ -198,27 +198,27 @@ AI:主人公に対する会話、エッチの誘いでコミュニケーショ�
 AI:主人公をエッチに誘いに来る行動の発生頻度(※4)=AI: Frequency of inviting player for sex (*4)
 AI:主人公へ話しかけに来る行動の発生頻度(※4)=AI: Frequency of seeking player to talk to them (*4)
 コミュニケーションシーン中のヒロインからのお誘い発生確率=% Chance of Heroine seducing player in Communication Scene
-※1　一部のランキングには反映されません。=*1 This is not reflected in some rankings.
-※2　一部のイベントで演出に矛盾が発生する場合があります。=*2 This may cause contradictions in the flow of events.
+※1　一部のランキングには反映されません。=*1 Isto não se reflete em algumas classificações.
+※2　一部のイベントで演出に矛盾が発生する場合があります。=*2 Isto pode causar contradições no fluxo de eventos.
 // Base game version
-※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、近づいて右クリックでシーンが切り替わります。=*3 When a speech bubble appears over the character, right-click them to move to the scene.
+※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、近づいて右クリックでシーンが切り替わります。=*3 Quando um balão de fala aparecer sobre o personagem, clique com o botão direito nele para ir para a cena.
 // Afterschool version
-※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、\n         近づいて右クリックでシーンが切り替わります。=*3 When a speech bubble appears over the character,\n　　right-click them to move to the scene.
+※3　マップ上にてキャラの頭上に吹き出しアイコンが表示され、\n         近づいて右クリックでシーンが切り替わります。=*3 Quando um balão de fala aparecer sobre o personagem,\n　　clique com o botão direito nele para ir para a cena.
 // Base game version
-※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する可能性があります。\n  　　また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの襲われエッチが発生しにくくなり、\n 　　 ０の場合は発生しなくなります。=*4 Even when set to 0, the previously set value is temporarily retained, so it may still happen once.\n　　Also, if you lower the frequency of sex, it will be less likely to occur next time you're at a rest spot,\n　　and it will not occur at all if set to 0.
+※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する可能性があります。\n  　　また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの襲われエッチが発生しにくくなり、\n 　　 ０の場合は発生しなくなります。=*4 Mesmo quando definido como 0, o valor definido anteriormente é mantido temporariamente, então ainda pode acontecer uma vez.\n　　Além disso, se você diminuir a frequência do sexo, será menos provável que isso ocorra na próxima vez que você estiver em repouso local,\n　　e não ocorrerá se definido como 0.
 // Afterschool version
-※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する\n　　  可能性があります。\n　　  また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの\n　　  襲われエッチが発生しにくくなり、０の場合は発生しなくなります。=*4 Even when set to 0, the previously set value is temporarily retained,\n　　so it may still happen once. Also, if you lower the frequency of sex,\n　　it will be less likely to occur next time you're at a rest spot,\n　　and it will not occur at all if set to 0.
+※4　数値を０にした場合も変更直前の数値が反映される為、一回だけ発生する\n　　  可能性があります。\n　　  また、エッチに誘いに来る行動の発生頻度を下げますと、休憩スポットでの\n　　  襲われエッチが発生しにくくなり、０の場合は発生しなくなります。=*4 Mesmo quando definido como 0, o valor definido anteriormente é retido temporariamente,\n　　portanto, ainda pode acontecer uma vez. Além disso, se você diminuir a frequência do sexo,\n　　será menos provável que isso ocorra na próxima vez que você estiver em um local de descanso,\n　　e não ocorrerá se definido como 0.
 // Afterschool additions
-地下鉄マップのモブを表示する=Show Mob characters on Subway Map
-モブの色=Mob Color
+地下鉄マップのモブを表示する=Mostrar personagens Mobs no local do metrô 
+モブの色=Cor de Mobs
 マップ選択デートに入らない(※5)=Don't Enter Map Selection On Dates (*5)
-※5　マップ選択デートが追加される前のデートイベントを見ることが出来ます。=*5 You can see the old date events, from before when\n　　the additional maps were added.
+※5　マップ選択デートが追加される前のデートイベントを見ることが出来ます。=*5 Você pode ver as datas antigas dos eventos, anteriores a quando\n　　os mapas adicionais foram adicionados.
 
 // Button along the bottom
 初期化=Defaults
-タイトル=Title
-ゲーム終了=Quit Game
+タイトル=Título
+ゲーム終了=Sair do jogo
 //Back
 
 // Miscellaneous Messages
-設定を初期化しますか？=Reset to defaults?
+設定を初期化しますか？=Voltar a configuração padrão?
